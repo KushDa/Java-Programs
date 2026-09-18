@@ -1,3 +1,10 @@
+/*Write a program in Java that implements the following:
+i) Class Student exists with member variables name, roll and grade.
+i) Constructor exists that initializes the values passed from main().
+ii) A function display() that prints the member variables.
+iv) Pass 7 such instances of class Student with values passed from main)
+and finally print the values of the 7 instances */
+
 import java.util.*;
 class Student{
 
